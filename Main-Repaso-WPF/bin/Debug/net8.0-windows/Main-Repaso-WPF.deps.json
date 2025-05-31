@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Main-Repaso-WPF/1.0.0": {
+        "runtime": {
+          "Main-Repaso-WPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Main-Repaso-WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

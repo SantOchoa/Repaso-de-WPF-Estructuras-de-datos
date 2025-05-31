@@ -1,0 +1,16 @@
+﻿<Window x:Class="Main_Repaso_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Main_Repaso_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Proyecto múltiple de WPF para Estructura de Datos" HorizontalAlignment="Center" Height="43" Margin="0,10,0,0" VerticalAlignment="Top" Width="538" FontWeight="Bold" FontSize="22"/>
+        <Button Name="Usurios" Content="Queue Usuarios" HorizontalAlignment="Center" Height="39" Margin="0,100,0,0" VerticalAlignment="Top" Width="308" Click="Usurios_Click"/>
+        <Button Name="Libors" Content="Stack Libros" HorizontalAlignment="Center" Height="39" Margin="0,150,0,0" VerticalAlignment="Top" Width="308" Click="Libors_Click"/>
+        <Button Name="Numeros" Content="Arbol binario numeros" HorizontalAlignment="Center" Height="39" Margin="0,200,0,0" VerticalAlignment="Top" Width="308" Click="Numeros_Click"/>
+        <Button Name="Red_Social" Content="Grafos Red Social" HorizontalAlignment="Center" Height="39" Margin="0,250,0,0" VerticalAlignment="Top" Width="308" Click="Red_Social_Click"/>
+    </Grid>
+</Window>
