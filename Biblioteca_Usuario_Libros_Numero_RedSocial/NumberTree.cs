@@ -15,6 +15,25 @@ namespace Biblioteca_Usuario_Libros_Numero_RedSocial
             root = null;
             current = null;
         }
-
+        public void addNumber(int value)
+        {
+            root = addNumberRecursively(root, value);
+        }
+        public Numeros addNumberRecursively(Numeros numeros, int value)
+        {
+            if (numeros == null)
+            {
+                return new Numeros(value); 
+            }
+            if(numeros.value >= value)
+            {
+                numeros.lowernumber = addNumberRecursively(numeros.lowernumber, value);
+            }
+            if(numeros.value < value)
+            {
+                numeros.greaternumber = addNumberRecursively(numeros.greaternumber, value);
+            }
+            return numeros;
+        }
     }
 }
