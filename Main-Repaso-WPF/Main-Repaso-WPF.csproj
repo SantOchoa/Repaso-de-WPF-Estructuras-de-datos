@@ -9,4 +9,8 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Biblioteca_Usuario_Libros_Numero_RedSocial\Biblioteca_Usuario_Libros_Numero_RedSocial.csproj" />
+  </ItemGroup>
+
 </Project>

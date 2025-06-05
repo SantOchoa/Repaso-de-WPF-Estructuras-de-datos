@@ -26,3 +26,10 @@ C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\
 C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Main-Repaso-WPF\obj\Debug\net8.0-windows\Libros_Stack.baml
 C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Main-Repaso-WPF\obj\Debug\net8.0-windows\Numeros_Arbol.baml
 C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Main-Repaso-WPF\obj\Debug\net8.0-windows\RedSocial_Grafo.baml
+C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Main-Repaso-WPF\bin\Debug\net8.0-windows\Biblioteca_Usuario_Libros_Numero_RedSocial.dll
+C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Main-Repaso-WPF\bin\Debug\net8.0-windows\Biblioteca_Usuario_Libros_Numero_RedSocial.pdb
+C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Main-Repaso-WPF\obj\Debug\net8.0-windows\Main-Repaso-WPF.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Main-Repaso-WPF\obj\Debug\net8.0-windows\Main-Repaso-WPF.sourcelink.json
+C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Main-Repaso-WPF\obj\Debug\net8.0-windows\Main-Rep.19B43E1D.Up2Date
+C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Main-Repaso-WPF\obj\Debug\net8.0-windows\Libro\AgregarLibro.g.cs
+C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Main-Repaso-WPF\obj\Debug\net8.0-windows\Libro\AgregarLibro.baml

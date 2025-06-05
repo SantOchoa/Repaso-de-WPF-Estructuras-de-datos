@@ -17,12 +17,12 @@ namespace Biblioteca_Usuario_Libros_Numero_RedSocial
         }
         public Usuario()
         {
-            
+
         }
 
         public string toString()
         {
             return $"ID: {id}, Nombre: {name}, Apellido: {lastName}";
         }
-
+    }
 }

@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "Main-Repaso-WPF/1.0.0": {
+        "dependencies": {
+          "Biblioteca_Usuario_Libros_Numero_RedSocial": "1.0.0"
+        },
         "runtime": {
           "Main-Repaso-WPF.dll": {}
+        }
+      },
+      "Biblioteca_Usuario_Libros_Numero_RedSocial/1.0.0": {
+        "runtime": {
+          "Biblioteca_Usuario_Libros_Numero_RedSocial.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "Main-Repaso-WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Biblioteca_Usuario_Libros_Numero_RedSocial/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
