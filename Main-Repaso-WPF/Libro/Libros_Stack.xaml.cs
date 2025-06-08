@@ -30,7 +30,8 @@ namespace Main_Repaso_WPF
         {
             AgregarLibro agregarLibro = new AgregarLibro();
             agregarLibro.ShowDialog();
-            this.Close();
+            libros.Push(agregarLibro.LibroCreado);
+           
         }
     }
 }

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|c:\\users\\usuario\\desktop\\estructura de datos\\repaso-de-wpf-estructuras de datos\\main-repaso-wpf\\libro\\agregarlibro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|solutionrelative:libro\\agregarlibro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|c:\\users\\usuario\\desktop\\estructura de datos\\repaso-de-wpf-estructuras de datos\\main-repaso-wpf\\libro\\libros_stack.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|solutionrelative:libro\\libros_stack.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|solutionrelative:libro\\libros_stack.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|c:\\users\\usuario\\desktop\\estructura de datos\\repaso-de-wpf-estructuras de datos\\main-repaso-wpf\\libro\\agregarlibro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|solutionrelative:libro\\agregarlibro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|c:\\users\\usuario\\desktop\\estructura de datos\\repaso-de-wpf-estructuras de datos\\main-repaso-wpf\\libro\\agregarlibro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|solutionrelative:libro\\agregarlibro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +34,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "AgregarLibro.xaml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\Libro\\AgregarLibro.xaml",
+              "RelativeDocumentMoniker": "Libro\\AgregarLibro.xaml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\Libro\\AgregarLibro.xaml",
+              "RelativeToolTip": "Libro\\AgregarLibro.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T05:01:23.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Libros_Stack.xaml.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\Libro\\Libros_Stack.xaml.cs",
               "RelativeDocumentMoniker": "Libro\\Libros_Stack.xaml.cs",
               "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\Libro\\Libros_Stack.xaml.cs",
               "RelativeToolTip": "Libro\\Libros_Stack.xaml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB8AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAA0MzMzMzMiwCAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T22:09:11.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Libros_Stack.xaml",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\Libro\\Libros_Stack.xaml",
               "RelativeDocumentMoniker": "Libro\\Libros_Stack.xaml",
@@ -55,13 +71,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AgregarLibro.xaml.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\Libro\\AgregarLibro.xaml.cs",
               "RelativeDocumentMoniker": "Libro\\AgregarLibro.xaml.cs",
               "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\Libro\\AgregarLibro.xaml.cs",
               "RelativeToolTip": "Libro\\AgregarLibro.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAMjMzMzMdwBwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T22:04:07.33Z",
               "EditorCaption": ""

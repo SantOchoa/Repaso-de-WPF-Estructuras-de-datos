@@ -7,6 +7,10 @@
         mc:Ignorable="d"
         Title="AgregarLibro" Height="450" Width="800">
     <Grid>
-        
+        <TextBox Name="id" HorizontalAlignment="Left" Height="33" Margin="137,100,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="188"/>
+        <TextBox Name="name" HorizontalAlignment="Left" Height="33" Margin="137,150,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="188"/>
+        <TextBox Name="author" HorizontalAlignment="Left" Height="33" Margin="137,200,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="188"/>
+        <Button Name="guardar" Content="Button" HorizontalAlignment="Left" Height="33" Margin="491,258,0,0" VerticalAlignment="Top" Width="176" Click="guardar_Click_1"/>
+
     </Grid>
 </Window>
