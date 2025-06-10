@@ -7,10 +7,10 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="Libro\AgregarLibro.xaml.cs">
+    <Compile Update="LibroOp\AgregarLibro.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Libro\Libros_Stack.xaml.cs">
+    <Compile Update="LibroOp\Libros_Stack.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="Numeros_Arbol.xaml.cs">
@@ -22,12 +22,15 @@
     <Compile Update="Usuario_Queue.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="LibroOp\Window1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="Libro\AgregarLibro.xaml">
+    <Page Update="LibroOp\AgregarLibro.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Libro\Libros_Stack.xaml">
+    <Page Update="LibroOp\Libros_Stack.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MainWindow.xaml">
@@ -40,6 +43,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Usuario_Queue.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LibroOp\Window1.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

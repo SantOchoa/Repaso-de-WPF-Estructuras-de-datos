@@ -1,11 +1,11 @@
+C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Biblioteca_Usuario_Libros_Numero_RedSocial\bin\Debug\net8.0-windows\Biblioteca_Usuario_Libros_Numero_RedSocial.deps.json
+C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Biblioteca_Usuario_Libros_Numero_RedSocial\bin\Debug\net8.0-windows\Biblioteca_Usuario_Libros_Numero_RedSocial.dll
+C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Biblioteca_Usuario_Libros_Numero_RedSocial\bin\Debug\net8.0-windows\Biblioteca_Usuario_Libros_Numero_RedSocial.pdb
 C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Biblioteca_Usuario_Libros_Numero_RedSocial\obj\Debug\net8.0-windows\Biblioteca_Usuario_Libros_Numero_RedSocial.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Biblioteca_Usuario_Libros_Numero_RedSocial\obj\Debug\net8.0-windows\Biblioteca_Usuario_Libros_Numero_RedSocial.AssemblyInfoInputs.cache
 C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Biblioteca_Usuario_Libros_Numero_RedSocial\obj\Debug\net8.0-windows\Biblioteca_Usuario_Libros_Numero_RedSocial.AssemblyInfo.cs
 C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Biblioteca_Usuario_Libros_Numero_RedSocial\obj\Debug\net8.0-windows\Biblioteca_Usuario_Libros_Numero_RedSocial.csproj.CoreCompileInputs.cache
 C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Biblioteca_Usuario_Libros_Numero_RedSocial\obj\Debug\net8.0-windows\Biblioteca_Usuario_Libros_Numero_RedSocial.sourcelink.json
-C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Biblioteca_Usuario_Libros_Numero_RedSocial\bin\Debug\net8.0-windows\Biblioteca_Usuario_Libros_Numero_RedSocial.deps.json
-C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Biblioteca_Usuario_Libros_Numero_RedSocial\bin\Debug\net8.0-windows\Biblioteca_Usuario_Libros_Numero_RedSocial.dll
-C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Biblioteca_Usuario_Libros_Numero_RedSocial\bin\Debug\net8.0-windows\Biblioteca_Usuario_Libros_Numero_RedSocial.pdb
 C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Biblioteca_Usuario_Libros_Numero_RedSocial\obj\Debug\net8.0-windows\Biblioteca_Usuario_Libros_Numero_RedSocial.dll
 C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Biblioteca_Usuario_Libros_Numero_RedSocial\obj\Debug\net8.0-windows\refint\Biblioteca_Usuario_Libros_Numero_RedSocial.dll
 C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Biblioteca_Usuario_Libros_Numero_RedSocial\obj\Debug\net8.0-windows\Biblioteca_Usuario_Libros_Numero_RedSocial.pdb
