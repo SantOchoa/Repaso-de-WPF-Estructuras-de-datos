@@ -25,5 +25,10 @@ namespace Main_Repaso_WPF
             InitializeComponent();
             Titulo.Text = libro.title;
         }
+
+        private void Volver_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
     }
 }

@@ -7,10 +7,19 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="CrearUsuario.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LibroOp\AgregarAmigos.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="LibroOp\AgregarLibro.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="LibroOp\Libros_Stack.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MostrarAmigos.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="Numeros_Arbol.xaml.cs">
@@ -27,6 +36,12 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="CrearUsuario.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LibroOp\AgregarAmigos.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="LibroOp\AgregarLibro.xaml">
       <SubType>Designer</SubType>
     </Page>
@@ -34,6 +49,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MostrarAmigos.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Numeros_Arbol.xaml">

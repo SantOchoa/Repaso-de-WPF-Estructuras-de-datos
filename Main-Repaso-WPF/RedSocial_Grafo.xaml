@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="RedSocial_Grafo" Height="450" Width="800">
     <Grid>
-        
+        <Button Name="Usuario" Content="Agregar Usuario" HorizontalAlignment="Center" Height="68" Margin="0,100,0,0" VerticalAlignment="Top" Width="424" Click="Usuario_Click"/>
+        <Button Name="Amigos" Content="Agregar Amigo al un usuario" HorizontalAlignment="Center" Height="68" Margin="0,200,0,0" VerticalAlignment="Top" Width="424" Click="Amigos_Click"/>
+        <Button Name="mostrar" Content="Mostrar amigos" HorizontalAlignment="Center" Height="66" Margin="0,307,0,0" VerticalAlignment="Top" Width="424" Click="mostrar_Click"/>
+
     </Grid>
 </Window>

@@ -1,0 +1,16 @@
+﻿<Window x:Class="Main_Repaso_WPF.LibroOp.AgregarAmigos"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Main_Repaso_WPF.LibroOp"
+        mc:Ignorable="d"
+        Title="AgregarAmigos" Height="450" Width="800">
+    <Grid>
+        <ComboBox  Name="nameusers" HorizontalAlignment="Left" Height="52" Margin="227,107,0,0" VerticalAlignment="Top" Width="327"/>
+        <ComboBox  Name="namefriend" HorizontalAlignment="Left" Height="52" Margin="227,222,0,0" VerticalAlignment="Top" Width="327"/>
+        <Button x:Name="Haceramigos" Content="Button" HorizontalAlignment="Left" Height="65" Margin="227,319,0,0" VerticalAlignment="Top" Width="327" Click="Haceramigos_Click"/>
+
+
+    </Grid>
+</Window>

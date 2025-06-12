@@ -35,3 +35,9 @@ C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\
 C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Main-Repaso-WPF\obj\Debug\net8.0-windows\ref\Main-Repaso-WPF.dll
 C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Main-Repaso-WPF\obj\Debug\net8.0-windows\LibroOp\Window1.g.cs
 C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Main-Repaso-WPF\obj\Debug\net8.0-windows\LibroOp\Window1.baml
+C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Main-Repaso-WPF\obj\Debug\net8.0-windows\CrearUsuario.g.cs
+C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Main-Repaso-WPF\obj\Debug\net8.0-windows\CrearUsuario.baml
+C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Main-Repaso-WPF\obj\Debug\net8.0-windows\LibroOp\AgregarAmigos.g.cs
+C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Main-Repaso-WPF\obj\Debug\net8.0-windows\LibroOp\AgregarAmigos.baml
+C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Main-Repaso-WPF\obj\Debug\net8.0-windows\MostrarAmigos.g.cs
+C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Main-Repaso-WPF\obj\Debug\net8.0-windows\MostrarAmigos.baml

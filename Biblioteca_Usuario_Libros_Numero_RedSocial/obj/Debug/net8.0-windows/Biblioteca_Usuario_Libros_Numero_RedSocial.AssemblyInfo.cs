@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Biblioteca_Usuario_Libros_Numero_RedSocial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb84b16950679afef38ee4b25c6ff9ac3d259da7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+102af3d7ca5f87be63ead11d226ef478635af7c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Biblioteca_Usuario_Libros_Numero_RedSocial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Biblioteca_Usuario_Libros_Numero_RedSocial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

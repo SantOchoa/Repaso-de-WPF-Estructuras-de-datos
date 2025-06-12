@@ -3,23 +3,49 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|c:\\users\\usuario\\desktop\\estructura de datos\\repaso-de-wpf-estructuras de datos\\main-repaso-wpf\\libroop\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|solutionrelative:libroop\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|c:\\users\\usuario\\desktop\\estructura de datos\\repaso-de-wpf-estructuras de datos\\main-repaso-wpf\\mostraramigos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|solutionrelative:mostraramigos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|c:\\users\\usuario\\desktop\\estructura de datos\\repaso-de-wpf-estructuras de datos\\main-repaso-wpf\\libroop\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|solutionrelative:libroop\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|c:\\users\\usuario\\desktop\\estructura de datos\\repaso-de-wpf-estructuras de datos\\main-repaso-wpf\\libroop\\agregaramigos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|solutionrelative:libroop\\agregaramigos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|c:\\users\\usuario\\desktop\\estructura de datos\\repaso-de-wpf-estructuras de datos\\main-repaso-wpf\\libroop\\libros_stack.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|solutionrelative:libroop\\libros_stack.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F53D7A53-9A49-4CC4-92B1-FDB37C8D4AD7}|..\\Biblioteca_Usuario_Libros_Numero_RedSocial\\Biblioteca_Usuario_Libros_Numero_RedSocial.csproj|c:\\users\\usuario\\desktop\\estructura de datos\\repaso-de-wpf-estructuras de datos\\biblioteca_usuario_libros_numero_redsocial\\userred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|c:\\users\\usuario\\desktop\\estructura de datos\\repaso-de-wpf-estructuras de datos\\main-repaso-wpf\\mostraramigos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|solutionrelative:mostraramigos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|c:\\users\\usuario\\desktop\\estructura de datos\\repaso-de-wpf-estructuras de datos\\main-repaso-wpf\\libroop\\libros_stack.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|solutionrelative:libroop\\libros_stack.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|c:\\users\\usuario\\desktop\\estructura de datos\\repaso-de-wpf-estructuras de datos\\main-repaso-wpf\\redsocial_grafo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|solutionrelative:redsocial_grafo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|c:\\users\\usuario\\desktop\\estructura de datos\\repaso-de-wpf-estructuras de datos\\main-repaso-wpf\\libroop\\agregaramigos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|solutionrelative:libroop\\agregaramigos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|c:\\users\\usuario\\desktop\\estructura de datos\\repaso-de-wpf-estructuras de datos\\main-repaso-wpf\\redsocial_grafo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|solutionrelative:redsocial_grafo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|c:\\users\\usuario\\desktop\\estructura de datos\\repaso-de-wpf-estructuras de datos\\main-repaso-wpf\\libroop\\agregarlibro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|solutionrelative:libroop\\agregarlibro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|c:\\users\\usuario\\desktop\\estructura de datos\\repaso-de-wpf-estructuras de datos\\main-repaso-wpf\\crearusuario.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|solutionrelative:crearusuario.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|c:\\users\\usuario\\desktop\\estructura de datos\\repaso-de-wpf-estructuras de datos\\main-repaso-wpf\\crearusuario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23709BEA-6FFC-4971-8361-C7EE53F633C0}|Main-Repaso-WPF.csproj|solutionrelative:crearusuario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53D7A53-9A49-4CC4-92B1-FDB37C8D4AD7}|..\\Biblioteca_Usuario_Libros_Numero_RedSocial\\Biblioteca_Usuario_Libros_Numero_RedSocial.csproj|c:\\users\\usuario\\desktop\\estructura de datos\\repaso-de-wpf-estructuras de datos\\biblioteca_usuario_libros_numero_redsocial\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53D7A53-9A49-4CC4-92B1-FDB37C8D4AD7}|..\\Biblioteca_Usuario_Libros_Numero_RedSocial\\Biblioteca_Usuario_Libros_Numero_RedSocial.csproj|c:\\users\\usuario\\desktop\\estructura de datos\\repaso-de-wpf-estructuras de datos\\biblioteca_usuario_libros_numero_redsocial\\numbertree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,7 +55,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,64 +63,150 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Window1.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\LibroOp\\Window1.xaml.cs",
-              "RelativeDocumentMoniker": "LibroOp\\Window1.xaml.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\LibroOp\\Window1.xaml.cs",
-              "RelativeToolTip": "LibroOp\\Window1.xaml.cs",
-              "ViewState": "AgIAABIAAACANTMzMzMLwBkAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T01:41:40.875Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Window1.xaml",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\LibroOp\\Window1.xaml",
-              "RelativeDocumentMoniker": "LibroOp\\Window1.xaml",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\LibroOp\\Window1.xaml",
-              "RelativeToolTip": "LibroOp\\Window1.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-10T01:40:18.611Z",
+              "Title": "MostrarAmigos.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\MostrarAmigos.xaml.cs",
+              "RelativeDocumentMoniker": "MostrarAmigos.xaml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\MostrarAmigos.xaml.cs",
+              "RelativeToolTip": "MostrarAmigos.xaml.cs",
+              "ViewState": "AgIAADIAAACA/v////8kwDYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T05:28:16.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAAL4UAAAAAAAAAAAcwMkUAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-06-09T05:10:02.958Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Libros_Stack.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\LibroOp\\Libros_Stack.xaml.cs",
-              "RelativeDocumentMoniker": "LibroOp\\Libros_Stack.xaml.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\LibroOp\\Libros_Stack.xaml.cs",
-              "RelativeToolTip": "LibroOp\\Libros_Stack.xaml.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAuwCYAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T05:00:00.899Z",
+              "Title": "MostrarAmigos.xaml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\MostrarAmigos.xaml",
+              "RelativeDocumentMoniker": "MostrarAmigos.xaml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\MostrarAmigos.xaml",
+              "RelativeToolTip": "MostrarAmigos.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-12T05:27:38.567Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Libros_Stack.xaml",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\LibroOp\\Libros_Stack.xaml",
-              "RelativeDocumentMoniker": "LibroOp\\Libros_Stack.xaml",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\LibroOp\\Libros_Stack.xaml",
-              "RelativeToolTip": "LibroOp\\Libros_Stack.xaml",
+              "DocumentIndex": 1,
+              "Title": "AgregarAmigos.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\LibroOp\\AgregarAmigos.xaml.cs",
+              "RelativeDocumentMoniker": "LibroOp\\AgregarAmigos.xaml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\LibroOp\\AgregarAmigos.xaml.cs",
+              "RelativeToolTip": "LibroOp\\AgregarAmigos.xaml.cs",
+              "ViewState": "AgIAAC4AAACAxMzMzMwEwCoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T03:50:56.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgregarAmigos.xaml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\LibroOp\\AgregarAmigos.xaml",
+              "RelativeDocumentMoniker": "LibroOp\\AgregarAmigos.xaml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\LibroOp\\AgregarAmigos.xaml",
+              "RelativeToolTip": "LibroOp\\AgregarAmigos.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-09T04:59:55.701Z"
+              "WhenOpened": "2025-06-12T03:42:15.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AgregarLibro.xaml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\LibroOp\\AgregarLibro.xaml",
+              "RelativeDocumentMoniker": "LibroOp\\AgregarLibro.xaml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\LibroOp\\AgregarLibro.xaml",
+              "RelativeToolTip": "LibroOp\\AgregarLibro.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-12T03:29:21.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NumberTree.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Biblioteca_Usuario_Libros_Numero_RedSocial\\NumberTree.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca_Usuario_Libros_Numero_RedSocial\\NumberTree.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Biblioteca_Usuario_Libros_Numero_RedSocial\\NumberTree.cs",
+              "RelativeToolTip": "..\\Biblioteca_Usuario_Libros_Numero_RedSocial\\NumberTree.cs",
+              "ViewState": "AgIAACYAAABgMjMzMzMwwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:46:53.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRed.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Biblioteca_Usuario_Libros_Numero_RedSocial\\UserRed.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca_Usuario_Libros_Numero_RedSocial\\UserRed.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Biblioteca_Usuario_Libros_Numero_RedSocial\\UserRed.cs",
+              "RelativeToolTip": "..\\Biblioteca_Usuario_Libros_Numero_RedSocial\\UserRed.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T04:04:07.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Biblioteca_Usuario_Libros_Numero_RedSocial\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\Biblioteca_Usuario_Libros_Numero_RedSocial\\Usuario.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Biblioteca_Usuario_Libros_Numero_RedSocial\\Usuario.cs",
+              "RelativeToolTip": "..\\Biblioteca_Usuario_Libros_Numero_RedSocial\\Usuario.cs",
+              "ViewState": "AgIAAAMAAADgzszMzMwEwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T04:04:03.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CrearUsuario.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\CrearUsuario.xaml.cs",
+              "RelativeDocumentMoniker": "CrearUsuario.xaml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\CrearUsuario.xaml.cs",
+              "RelativeToolTip": "CrearUsuario.xaml.cs",
+              "ViewState": "AgIAABsAAADYyczMzMwhwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T04:01:29.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CrearUsuario.xaml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\CrearUsuario.xaml",
+              "RelativeDocumentMoniker": "CrearUsuario.xaml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\CrearUsuario.xaml",
+              "RelativeToolTip": "CrearUsuario.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-10T04:00:00.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RedSocial_Grafo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\RedSocial_Grafo.xaml.cs",
+              "RelativeDocumentMoniker": "RedSocial_Grafo.xaml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\RedSocial_Grafo.xaml.cs",
+              "RelativeToolTip": "RedSocial_Grafo.xaml.cs",
+              "ViewState": "AgIAABAAAADA//////8swBcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T03:59:19.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RedSocial_Grafo.xaml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\RedSocial_Grafo.xaml",
+              "RelativeDocumentMoniker": "RedSocial_Grafo.xaml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\Repaso-de-WPF-Estructuras de datos\\Main-Repaso-WPF\\RedSocial_Grafo.xaml",
+              "RelativeToolTip": "RedSocial_Grafo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-10T03:56:33.649Z",
+              "EditorCaption": ""
             }
           ]
         }

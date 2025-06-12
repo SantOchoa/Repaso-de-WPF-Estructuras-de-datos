@@ -35,5 +35,18 @@ namespace Biblioteca_Usuario_Libros_Numero_RedSocial
             }
             return numeros;
         }
+        public void printNumbers()
+        {
+            printNumbersRecursively(root);
+        }
+        public void printNumbersRecursively(Numeros numeros)
+        {
+            if (numeros != null)
+            {
+                printNumbersRecursively(numeros.lowernumber);
+                Console.WriteLine(numeros.value);
+                printNumbersRecursively(numeros.greaternumber);
+            }
+        }
     }
 }

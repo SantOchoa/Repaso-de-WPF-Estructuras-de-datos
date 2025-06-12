@@ -7,8 +7,9 @@
         mc:Ignorable="d"
         Title="Window1" Height="450" Width="800">
     <Grid>
-        <Label Name="Name" Content="Titulo" Margin="38,89,693,308" FontWeight="Bold" FontSize="22"/>
-        <TextBlock Name="Titulo" HorizontalAlignment="Left" Height="45" Margin="38,126,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="304"/>
+        <Label Name="Name" Content="Titulo" Margin="38,62,633,313" FontWeight="Bold" FontSize="36"/>
+        <TextBlock Name="Titulo" HorizontalAlignment="Left" Height="45" Margin="38,126,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="304" FontSize="20"/>
+        <Button  Name="Volver" Content="Button" HorizontalAlignment="Left" Height="70" Margin="246,283,0,0" VerticalAlignment="Top" Width="334" Click="Volver_Click"/>
 
     </Grid>
 </Window>

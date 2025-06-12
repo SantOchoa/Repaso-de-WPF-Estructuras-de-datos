@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\USUARIO\Desktop\Estructura de Datos\Repaso-de-WPF-Estructuras de datos\Main-Repaso-WPF\App.xaml
-7-206044244
+10-451914212
 
-10635134944
+13-1622917724
 199-1938776550
-LibroOp\AgregarLibro.xaml;LibroOp\Libros_Stack.xaml;LibroOp\Window1.xaml;MainWindow.xaml;Numeros_Arbol.xaml;RedSocial_Grafo.xaml;Usuario_Queue.xaml;
+CrearUsuario.xaml;LibroOp\AgregarAmigos.xaml;LibroOp\AgregarLibro.xaml;LibroOp\Libros_Stack.xaml;LibroOp\Window1.xaml;MainWindow.xaml;MostrarAmigos.xaml;Numeros_Arbol.xaml;RedSocial_Grafo.xaml;Usuario_Queue.xaml;
 
 False
 
